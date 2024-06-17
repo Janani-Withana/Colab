@@ -1,1 +1,1 @@
-# Linear Regression
+# AI/ML Practicals
