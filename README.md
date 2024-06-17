@@ -1,1 +1,1 @@
-# AI/ML Practicals - Colab
+# AI/ML Practicals - Cola
